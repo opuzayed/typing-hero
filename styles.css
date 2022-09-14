@@ -63,16 +63,15 @@ body {
 }
 #result {
   position: fixed;
-  top: 10%; 
-  left: 10%;
-  transform: translate(-50%, -50%);
+  top: 35%; 
+  left: 35%;
   height: 250px;
   width: 400px;
   background-color: #171717;
   border-radius: 15px;
   border: 2px solid #9dffad;
   color: white;
-  text-align: center;
+  text-align: center; 
   padding: 2rem;
 }
 #show-time{
